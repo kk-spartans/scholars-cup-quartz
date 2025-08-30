@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "kk-spartans.github.io/scholars-cup-quartz",
+    baseUrl: "kk-spartans.github.io/scholars-cup-quartz/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
