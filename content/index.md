@@ -21,13 +21,6 @@ To be clear, when something is ai generated - it's **explicitly** mentioned (oth
  - Confident that I **completely** agree with it
  - Hope my teammates will do a better job than me at that topic because I *give up* (especially in Social Studies and Art and Literature).
 
-
-
-## Todo
-
-- [ ] Use the new obsidian bases instead of dataview
-- [ ] Tag all the questions with the subject they are
-
 ## Useful Things
 
  - [List Of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
