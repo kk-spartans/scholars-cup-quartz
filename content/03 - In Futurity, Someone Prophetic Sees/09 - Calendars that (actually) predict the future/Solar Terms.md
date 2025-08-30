@@ -1,0 +1,1 @@
+Divides the year (Gregorian Calendar) into 24 equal parts, each 15-16 days long. These are based on the Sun’s position along the ecliptic — every 15 degrees of its 360 degree journey. Each mark seasonal changes and natural events (like solstices, equinoxes).

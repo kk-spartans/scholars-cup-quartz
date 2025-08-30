@@ -1,0 +1,1 @@
+When an object has or can do something that it’s smaller parts can’t do alone. Basically “teamwork makes the dreamwork”. For example, compounds - they can sometimes have completely different properties form the elements that make them up.

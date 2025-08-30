@@ -1,0 +1,1 @@
+Trying to predict a person’s personality without knowing before. A cold reader starts with something vague, like “you’re an introvert” and observes visual cues like their face and body language. Then uses those responses to narrow down and seem like they can read you.

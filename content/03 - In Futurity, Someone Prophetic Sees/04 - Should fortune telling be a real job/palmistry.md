@@ -1,0 +1,1 @@
+Reading someone’s future based on the lines on their palms, if you live in a place where there’s a lot of people who fall for this — kinda good side hustle after you memorize what the lines actually mean.

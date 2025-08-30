@@ -1,0 +1,1 @@
+A specific type of [[10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Inter Combustion Engine (ICE)\|ICE]] that uses spark ignition and usually gasoline.

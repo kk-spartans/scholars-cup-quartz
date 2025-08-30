@@ -1,0 +1,1 @@
+Turns heat into usable energy, dumps the rest outside. Includes [[10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Inter Combustion Engine (ICE)\|ICEs]] and other things, like steam engines, stirling engines, and [[10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Gas Turbines]].

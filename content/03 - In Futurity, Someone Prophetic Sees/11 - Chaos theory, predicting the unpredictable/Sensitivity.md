@@ -1,0 +1,1 @@
+Also known as the butterfly effect; the tiniest tweak in starting conditions can lead to drastically different outcomes, making long-term prediction nearly impossible — weather is still the poster child.

@@ -1,0 +1,1 @@
+Appears to have no pattern, but it’s just fooling you most of the time. Most randomness is just using seeds that produce random things, this seed is sometimes figured out by something like a hash (a series of bits that can uniquely Identify information but can’t reconstruct it — see [SHAttered](https://shattered.io/)).

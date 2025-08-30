@@ -1,0 +1,1 @@
+Something (but usually a drug) that kills senescent cells — cells that stopped dividing but refuse to die, so they just sit there pumping inflammatory crap that messes with tissues and accelerates aging.

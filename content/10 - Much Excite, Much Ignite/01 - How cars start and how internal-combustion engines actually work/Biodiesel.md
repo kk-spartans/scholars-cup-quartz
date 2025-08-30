@@ -1,0 +1,1 @@
+Chemically, fatty acid methyl esters (FAME), produced from vegetable oils/fats. Combustion similar to diesel: C<sub>16</sub>H<sub>32</sub>O<sub>2</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O (not adjusted)

@@ -1,0 +1,4 @@
+- [[12 - No Backup, But Restore/01 - Creative works that fail first and succeed later — should early versions matter/01 - Creative works that fail first and succeed later — should early versions matter]]
+- [[12 - No Backup, But Restore/02 - Musical scales, modes, and the idea of “future” riffs/02 - Musical scales, modes, and the idea of “future” riffs]]
+- [[12 - No Backup, But Restore/03 - Video game music — chiptunes, history, and artistic value/03 - Video game music — chiptunes, history, and artistic value]]
+- [[12 - No Backup, But Restore/04 - Rhythm games — fun, rehabilitation, education, and shaping music/04 - Rhythm games — fun, rehabilitation, education, and shaping music]]

@@ -1,0 +1,4 @@
+- [[07 - Speeches that Inspire, Speeches that Spit Fire/01 - Can a speech truly inspire peace—JFK and others/01 - Can a speech truly inspire peace—JFK and others]]
+- [[07 - Speeches that Inspire, Speeches that Spit Fire/02 - Fictional speeches that feel real — why they work/02 - Fictional speeches that feel real — why they work]]
+- [[07 - Speeches that Inspire, Speeches that Spit Fire/03 - Leaders speaking abroad — impact and reception/03 - Leaders speaking abroad — impact and reception]]
+- [[07 - Speeches that Inspire, Speeches that Spit Fire/04 - How broadcasting technology shapes speeches and influence/04 - How broadcasting technology shapes speeches and influence]]

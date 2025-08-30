@@ -1,0 +1,1 @@
+Gas turbines, jet engines; fuel burns continuously instead of in discrete strokes. Like in [[10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Inter Combustion Engine (ICE)\|ICEs]].

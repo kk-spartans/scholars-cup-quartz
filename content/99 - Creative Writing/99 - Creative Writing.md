@@ -1,0 +1,4 @@
+ - [[99 - Creative Writing/The truth is only as valuable as the person who speaks it]]
+ - [[99 - Creative Writing/What entertains us owns us]]
+ - [[99 - Creative Writing/People should have the right not to know]]
+ - [[99 - Creative Writing/Blame the machine, not the mechanic]]

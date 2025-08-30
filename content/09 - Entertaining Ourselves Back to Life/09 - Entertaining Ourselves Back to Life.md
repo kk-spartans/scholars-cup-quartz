@@ -1,0 +1,7 @@
+- [[09 - Entertaining Ourselves Back to Life/01 - The appeal of returning kings and prophesied leaders/01 - The appeal of returning kings and prophesied leaders]]
+- [[09 - Entertaining Ourselves Back to Life/02 - Comebacks — when second chances succeed or fail/02 - Comebacks — when second chances succeed or fail]]
+- [[09 - Entertaining Ourselves Back to Life/03 - Posthumous fame — why some creators are appreciated after death/03 - Posthumous fame — why some creators are appreciated after death]]
+- [[09 - Entertaining Ourselves Back to Life/04 - Re-releasing art timing and creator involvement/04 - Re-releasing art timing and creator involvement]]
+- [[09 - Entertaining Ourselves Back to Life/05 - Digital clones and AI in art — who really creates/05 - Digital clones and AI in art — who really creates]]
+- [[09 - Entertaining Ourselves Back to Life/06 - Completing unfinished works with AI or human intervention/06 - Completing unfinished works with AI or human intervention]]
+- [[09 - Entertaining Ourselves Back to Life/07 - Open creation — should artists share work-in-progress with the public/07 - Open creation — should artists share work-in-progress with the public]]

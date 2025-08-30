@@ -1,0 +1,1 @@
+A simple simulation where agents follow a few rules (separation, alignment, cohesion) and suddenly you’ve got birds flocking or fish schooling like in nature — again, complex behavior from simple rules

@@ -1,0 +1,1 @@
+Basically [[10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Wankel Rotary Engine]], where something rotates instead of [[10 - Much Excite, Much Ignite/01 - How cars start and how internal-combustion engines actually work/Reciprocating Piston Engine]]s.

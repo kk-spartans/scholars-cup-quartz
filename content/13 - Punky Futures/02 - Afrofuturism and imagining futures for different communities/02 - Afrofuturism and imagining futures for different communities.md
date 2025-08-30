@@ -1,0 +1,16 @@
+> Later artists and writers adapted futurism’s interest in technology to imagine liberation and empowerment for different communities. Research the [history of Afrofuturism](https://www.tate.org.uk/art/art-terms/a/afrofuturism), from its origins in the Space Age to Marvel’s Wakanda Forever, then discuss with your team: [what makes something 'Afrofuturist'](https://artreview.com/the-past-and-future-of-afrofuturism/)? Could an artist be ['Asiafuturist'](https://www.tribephotomagazine.com/issue-09/larissa-sansour-heirloom) or 'Amerifuturist' instead?
+
+| File                                                                                                                                                   | author         | link                                                              | created |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------------------------------------------------------------- | ------- |
+| [[13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Black Panther (book cover)\|Black Panther (book cover)]]     | Marvel         | https://www.si.edu/object/black-panther-vol-1-no-4%3Anmah_1894264 | 1977    |
+| [[13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Black Panther (movie poster)\|Black Panther (movie poster)]] | Marvel         | https://filmartgallery.com/products/black-panther                 | 2018    |
+| [[13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Black Panther\|Black Panther]]                               | Kendrick Lamar | https://open.spotify.com/track/5qN4HFkapdAOV94XPryVof             | 2018    |
+| [[13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Galaxy In Janaki\|Galaxy In Janaki]]                         | Flying Lotus   | https://open.spotify.com/track/5qz90fqj8qIpu6CoQRi4kI             | 2010    |
+| [[13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Miyale Ya Blue\|Miyale Ya Blue]]                             | Cyrus Kabiru   | https://www.metmuseum.org/art/collection/search/846921            | 2020    |
+| [[13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Nightclubbing\|Nightclubbing]]                               | Grace Jones    | https://open.spotify.com/track/2z5H8hqgbNcFs8Wl2deUhy             | 1981    |
+| [[13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/Space is the Place\|Space is the Place]]                     | Sun Ra         | https://open.spotify.com/track/4TSrz1RKWuhTSaKJ6B1BJp             | 1973    |
+
+
+Afrofuturism has historical anchoring (links diasporic memory), tech and myths, and imagines repair and autonomy (not just aesthetic futurism).
+
+And there can definitely be asiafuturist / amerifuturist. They already exist in multiple forms, and each time it just moves the focus to a a different place’s community. The only rule here is that a valid -futurism must grow from its community’s conditions, not just borrow aesthetic.

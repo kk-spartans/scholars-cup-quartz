@@ -1,0 +1,1 @@
+Started in 1956 to unite Europe through cheesy pop and sequins. Each country sends a song, everyone votes (with plenty of bloc politics), and it’s broadcast across Europe (and now streamed everywhere). The olympics of karaoke.

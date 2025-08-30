@@ -1,0 +1,1 @@
+Burns like [[06 - Things Really Do Catch Fire/01 - What is fire and how does it work/01 - What is fire and how does it work#^8bf3e5\|this]]. Alkanes, alkenes, aromatics, gasoline, diesel, jet fuel all fall here.

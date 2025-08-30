@@ -1,0 +1,4 @@
+- [[13 - Punky Futures/01 - Futurism — origins, art, and predicting the future/01 - Futurism — origins, art, and predicting the future]]
+- [[13 - Punky Futures/02 - Afrofuturism and imagining futures for different communities/02 - Afrofuturism and imagining futures for different communities]]
+- [[13 - Punky Futures/03 - Solarpunk — optimistic tech-nature futures and real-world examples/03 - Solarpunk — optimistic tech-nature futures and real-world examples]]
+- [[13 - Punky Futures/04 - Atompunk — imagining an Atomic Age that never ended/04 - Atompunk — imagining an Atomic Age that never ended]]

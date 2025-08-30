@@ -1,0 +1,1 @@
+You merge different dots on a screen using your keyboard, touchscreen, or a mouse. You have to merge them along the lines joining the dots (notes) while matching the rhythm of the song, or else you miss the beat.

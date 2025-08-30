@@ -1,0 +1,1 @@
+Basically logical determinism but with a little wiggle room. The world is deterministic enough to make predictions and make science work, but at the quantum scale there’s still minor, random deviations.

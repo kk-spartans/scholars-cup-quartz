@@ -1,0 +1,3 @@
+- [[04 - The Future Wasn’t Meant to Be/01 - Why cool-sounding tech flopped and could it come back/01 - Why cool-sounding tech flopped and could it come back]]
+- [[04 - The Future Wasn’t Meant to Be/02 - 90s pop culture’s hype for the new millennium—justified or not/02 - 90s pop culture’s hype for the new millennium—justified or not]]
+- [[04 - The Future Wasn’t Meant to Be/03 - Do New Age good-vibes anthems still hit today/03 - Do New Age good-vibes anthems still hit today]]

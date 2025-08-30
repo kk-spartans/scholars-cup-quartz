@@ -1,0 +1,1 @@
+First ever presidential debate on TV. Kennedy looked calm and polished, Nixon looked sweaty and tired. On radio, people thought Nixon won; on TV, Kennedy crushed him. Proof that vibes beat policy when cameras are rolling.

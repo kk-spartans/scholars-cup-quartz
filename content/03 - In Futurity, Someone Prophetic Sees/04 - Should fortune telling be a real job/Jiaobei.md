@@ -1,0 +1,1 @@
+Also called "moon blocks," you toss two red crescent-shaped wood pieces and interpret how they land. Yes = one up, one down. No = both same. Unclear = try again. Basically a divine yes/no button with RNG
